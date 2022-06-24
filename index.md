@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Christine Youngwon Kim
 
-You can use the [editor on GitHub](https://github.com/ywkim1118/christinekim/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! I am a graduate student in the Department of Human Development and Family Studies at The Pennsylvania State University. My research focuses on several questions: 
+- relationships between parents in the transition to parenthood, such as coparenting and marital relationships 
+- parent and overall family mental health and well-being in the transition to parenthood 
+- infant-parent attachment relationships 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In my free time, I like to hang out on the couch with my dog and husband, read fiction, watch TV shows, and go on walks.
 
 ### Markdown
 
@@ -32,6 +35,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ywkim1118/christinekim/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Google Scholar]([https://docs.github.com/categories/github-pages-basics/](https://scholar.google.com/citations?user=cqNLOAoAAAAJ&hl=en&oi=ao)) or [ResearchGate]([https://support.github.com/contact](https://www.researchgate.net/profile/Christine_Kim23)) and we’ll help you sort it out.
